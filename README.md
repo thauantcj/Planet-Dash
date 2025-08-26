@@ -7,17 +7,12 @@
 - Alcance a saída para completar a fase.
 
 ## 🎮 Capa do Jogo
-
-Astronauta pulando blocos:  
 ![AstroDash](images/planetdash.png)
 
+Foi utilizado?
 
 - Python 3.x
 - Pygame Zero
 
 ---
 
-## 🚀 Executando o Jogo
-1. Clone este repositório:
-```bash
-git clone https://github.com/seu-usuario/PlanetDash.git
