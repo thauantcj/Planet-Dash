@@ -27,11 +27,11 @@ pgzrun planetdash.py
 ```
 ✨ Recursos do Jogo
 
-Jogabilidade simples e divertida
+- Jogabilidade simples e divertida
 
-Inimigos com diferentes comportamentos
+- Inimigos com diferentes comportamentos
 
-Obstáculos e plataformas variadas
+- Obstáculos e plataformas variadas
 
-Cenários coloridos e animados
+- Cenários coloridos e animados
 
