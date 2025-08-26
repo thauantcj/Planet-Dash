@@ -9,7 +9,7 @@
 ## 🎮 Capa do Jogo
 
 Astronauta pulando blocos:  
-![AstroDash](images/planetdash.png)
+![AstroDash](images/planet_dash.png)
 
 
 - Python 3.x
