@@ -9,10 +9,29 @@
 ## 🎮 Capa do Jogo
 ![AstroDash](images/planetdash.png)
 
-Foi utilizado?
+Foi utilizado:
 
 - Python 3.x
 - Pygame Zero
 
----
+## ⚙️ Tecnologias Utilizadas
+- **Python 3.x**
+- **Pygame Zero**
+
+## 🚀 Como Executar
+1. Clone o repositório:
+```
+git clone https://github.com/seu-usuario/PlanetDash.git
+cd PlanetDash
+pgzrun planetdash.py
+```
+✨ Recursos do Jogo
+
+Jogabilidade simples e divertida
+
+Inimigos com diferentes comportamentos
+
+Obstáculos e plataformas variadas
+
+Cenários coloridos e animados
 
